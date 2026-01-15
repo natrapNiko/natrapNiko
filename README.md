@@ -106,15 +106,11 @@ Recipe sharing & social platform prototype.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=dark&cache_seconds=1800" />
-</p>
+- Active contributor with consistent commits
+- Focus on real-world ASP.NET Core projects
+- Clean commit history and documented repositories
 
 ---
 
