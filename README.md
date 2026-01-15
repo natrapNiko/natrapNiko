@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Niko</h1>
-<h3 align="center">Junior ASP.NET Core Developer | C# | SQL Server</h3>
+<h3 align="center">
+Junior ASP.NET Core Developer | C# | SQL Server | JavaScript | HTML & CSS
+</h3>
 
 <p align="center">
-I build clean, practical backend-focused web applications.<br/>
-I care about architecture, business logic, and writing code that makes sense.
+I build clean, practical web applications with a strong focus on backend logic.<br/>
+I care about architecture, business rules, and writing code that is easy to read, test, and maintain.
 </p>
 
 ---
@@ -12,10 +13,11 @@ I care about architecture, business logic, and writing code that makes sense.
 ## 🧠 About Me
 
 - 🔹 Junior **ASP.NET Core (.NET 8)** Developer  
-- 🔹 Strong focus on **backend & service-layer architecture**
-- 🔹 Experience with **MVC, Entity Framework Core, SQL Server**
-- 🔹 Writing **unit-tested, maintainable code**
-- 🔹 Always improving fundamentals instead of chasing hype
+- 🔹 Backend-focused, with solid frontend fundamentals  
+- 🔹 Experience with **MVC, Service Layer, EF Core**
+- 🔹 Comfortable working with **SQL Server**
+- 🔹 Writing **unit-tested business logic**
+- 🔹 Prefer clean, understandable solutions over hacks
 
 ---
 
@@ -26,22 +28,25 @@ I care about architecture, business logic, and writing code that makes sense.
 - ASP.NET Core MVC (.NET 8)
 - Entity Framework Core
 - LINQ
+- Dependency Injection
 
 ### 🗄️ Database
 - Microsoft SQL Server
-- SQL (joins, subqueries, indexing basics)
+- SQL (joins, subqueries, grouping, basic indexing)
 
 ### 🎨 Frontend
-- Razor Views
-- HTML5 / CSS3
+- JavaScript (ES6+ basics)
+- HTML5
+- CSS3
 - Bootstrap
+- Razor Views
 
 ### 🧪 Testing & Tools
 - xUnit
-- Moq (basic)
+- Moq (basic usage)
 - Git & GitHub
 - Visual Studio
-- SSMS
+- SQL Server Management Studio (SSMS)
 
 ---
 
@@ -51,11 +56,11 @@ I care about architecture, business logic, and writing code that makes sense.
 **Recipe Sharing Web Application**
 
 - ASP.NET Core MVC (.NET 8)
-- Service layer with business logic
+- Clean separation: Controllers / Services / Data
 - Authentication & roles (Admin / User)
 - Recipes, ingredients, comments, favorites
 - Pagination & filtering
-- Unit-tested services (xUnit)
+- Unit tests for service layer (xUnit)
 
 👉 **Repository:** https://github.com/natrapNiko/CallMeFood
 
@@ -71,9 +76,9 @@ Recipe sharing & social platform prototype.
 ## 📚 Currently Improving
 
 - Clean architecture & SOLID principles
-- Writing better unit tests
-- SQL performance basics
-- Structuring real-world ASP.NET projects
+- Writing better and more meaningful unit tests
+- SQL performance fundamentals
+- Structuring real-world ASP.NET Core applications
 
 ---
 
