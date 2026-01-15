@@ -109,11 +109,11 @@ Recipe sharing & social platform prototype.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=dark&cache_seconds=1800" />
 </p>
 
 ---
