@@ -4,20 +4,20 @@ Junior ASP.NET Core Developer | C# | SQL Server | JavaScript | HTML & CSS
 </h3>
 
 <p align="center">
-I build clean, practical web applications with a strong focus on backend logic.<br/>
-I care about architecture, business rules, and writing code that is easy to read, test, and maintain.
+Backend-focused developer with solid fundamentals and structured training.<br/>
+I build clean, testable web applications and care about architecture and business logic.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔹 Junior **ASP.NET Core (.NET 8)** Developer  
-- 🔹 Backend-focused, with solid frontend fundamentals  
-- 🔹 Experience with **MVC, Service Layer, EF Core**
-- 🔹 Comfortable working with **SQL Server**
-- 🔹 Writing **unit-tested business logic**
-- 🔹 Prefer clean, understandable solutions over hacks
+- Junior **ASP.NET Core (.NET 8)** Developer
+- Strong foundation in **C# OOP and backend development**
+- Experience with **MVC, Service Layer, EF Core**
+- Comfortable working with **SQL Server & relational databases**
+- Frontend fundamentals with **JavaScript, HTML & CSS**
+- Focused on writing **clean, maintainable, testable code**
 
 ---
 
@@ -32,7 +32,7 @@ I care about architecture, business rules, and writing code that is easy to read
 
 ### 🗄️ Database
 - Microsoft SQL Server
-- SQL (joins, subqueries, grouping, basic indexing)
+- SQL (joins, subqueries, grouping, indexing basics)
 
 ### 🎨 Frontend
 - JavaScript (ES6+ basics)
@@ -50,6 +50,30 @@ I care about architecture, business rules, and writing code that is easy to read
 
 ---
 
+## 🎓 Education & Training
+
+### 📌 Programming Fundamentals
+- Programming Fundamentals – **May 2024**
+- Programming Fundamentals with C# – **May 2024**
+
+### 📌 C# Advanced
+- C# Advanced – **September 2024**
+- C# OOP – **October 2024**
+
+### 📌 C# DB
+- MS SQL – **January 2025**
+- Entity Framework Core – **February 2025**
+
+### 📌 C# Web
+- ASP.NET Fundamentals – **May 2025**
+- ASP.NET Advanced – **June 2025**
+
+### 📌 JS Front-End
+- HTML & CSS – **September 2025**
+- JS Front-End – **October 2025**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🍽️ CallMeFood
@@ -62,19 +86,23 @@ I care about architecture, business rules, and writing code that is easy to read
 - Pagination & filtering
 - Unit tests for service layer (xUnit)
 
+👉 **Repository:** https://github.com/natrapNiko/CallMeFood
 
+---
+
+### 🔧 ChopChop!
 Recipe sharing & social platform prototype.
 
-👉 **Repository:** https://github.com/natrapNiko/CallMeFood
+👉 **Repository:** https://github.com/natrapNiko/ChopChop
 
 ---
 
 ## 📚 Currently Improving
 
 - Clean architecture & SOLID principles
-- Writing better and more meaningful unit tests
+- Writing better unit tests
 - SQL performance fundamentals
-- Structuring real-world ASP.NET Core applications
+- Real-world ASP.NET Core application structure
 
 ---
 
@@ -93,6 +121,7 @@ Recipe sharing & social platform prototype.
 ## 🤝 Let’s Connect
 
 - GitHub: https://github.com/natrapNiko
+- LinkedIn: https://www.linkedin.com/in/nikolay-vatev-113b1b329/
 - Instagram: https://www.instagram.com/natrapNiko/
 
 ---
