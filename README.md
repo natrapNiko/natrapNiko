@@ -62,14 +62,10 @@ I care about architecture, business rules, and writing code that is easy to read
 - Pagination & filtering
 - Unit tests for service layer (xUnit)
 
-👉 **Repository:** https://github.com/natrapNiko/CallMeFood
 
----
-
-### 🔧 ChopChop!
 Recipe sharing & social platform prototype.
 
-👉 **Repository:** https://github.com/natrapNiko/ChopChop
+👉 **Repository:** https://github.com/natrapNiko/CallMeFood
 
 ---
 
