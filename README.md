@@ -90,13 +90,6 @@ I build clean, testable web applications and care about architecture and busines
 
 ---
 
-### 🔧 ChopChop!
-Recipe sharing & social platform prototype.
-
-👉 **Repository:** https://github.com/natrapNiko/ChopChop
-
----
-
 ## 📚 Currently Improving
 
 - Clean architecture & SOLID principles
