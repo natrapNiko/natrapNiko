@@ -118,3 +118,5 @@ I build clean, testable web applications and care about architecture and busines
 <p align="center">
 <i>Clean code over clever code.</i>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
