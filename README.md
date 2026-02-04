@@ -21,6 +21,8 @@ I build clean, testable web applications and care about architecture and busines
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,discord,docker,figma,github,githubactions,jenkins,linux,npm,obsidian,postman,unity,vscode,windicss,)](https://skillicons.dev)
+
 ## 🛠️ Tech Stack
 
 ### 💻 Backend
@@ -118,5 +120,3 @@ I build clean, testable web applications and care about architecture and busines
 <p align="center">
 <i>Clean code over clever code.</i>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
