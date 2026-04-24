@@ -24,13 +24,45 @@
 
 **About me**
 
-I'm a backend-focused .NET developer with a comprehensive training path covering C#, OOP, SQL, EF Core, ASP.NET Core, and DevOps practices. I focus on writing maintainable, well-tested code with clear separation of concerns.
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
+
+Hey — I'm Nikolay, but honestly nobody calls me that — just call me **Niko**. I'm a junior .NET developer based in Hamburg, Germany 🇩🇪, originally from Bulgaria 🇧🇬.
+I've been learning to program for about two years now and I'm genuinely enjoying the journey — still figuring things out, but making real progress every day.
+
+Outside of code I'm into MMA, street fitness, and staying active. I love gaming (PS5 is basically my co-worker), travelling, and building small games and websites just for fun. I'm naturally curious and always open to picking up something new. I'm fairly new to GitHub — only recently started putting my work out there publicly.
+
+</details>
+
+<details>
+<summary><b>🇧🇬 Български</b></summary>
+<br/>
+
+Здравей — казвам се Николай Вътев, но не обичам да ме наричават с пълното ми име, затова всички ме познават просто като **Нико**. Junior .NET разработчик, живея в Хамбург, Германия, роден съм в България.
+От около две години се уча да програмирам — върви някак си, с грешки и успехи, но напредъкът е реален.
+
+Извън кода обичам ММА, street fitness и спорта като цяло. Страстен съм геймър — PS5 е почти равностоен на колега. Обичам да пътувам, да строя малки игрички и сайтове само за удоволствие, и съм постоянно любопитен към нови технологии. В GitHub съм сравнително нов — съвсем скоро започнах да публикувам проектите си.
+
+</details>
+
+<details>
+<summary><b>🇩🇪 Deutsch</b></summary>
+<br/>
+
+Hey — ich heiße Nikolay, aber meinen vollen Namen mag ich eigentlich nicht so — alle nennen mich einfach **Niko**. Junior .NET-Entwickler aus Hamburg 🇩🇪, ursprünglich aus Bulgarien 🇧🇬.
+Seit etwa zwei Jahren lerne ich zu programmieren — es läuft irgendwie, mit Fehlern und Fortschritten, aber ich komme täglich voran.
+
+Neben dem Code treibe ich gerne Sport: MMA, Street Fitness und mehr. Ich bin leidenschaftlicher Gamer — die PS5 ist quasi mein Bürokollege. Ich reise gerne, baue kleine Spiele und Websites zum Spaß und bin immer offen für neue Technologien. Auf GitHub bin ich noch relativ neu — ich habe erst kürzlich begonnen, meine Projekte öffentlich zu teilen.
+
+</details>
 
 ```yaml
 role:      Junior .NET Developer
 focus:     Backend · Architecture · Testing
-location:  Bulgaria 🇧🇬
+location:  Hamburg, Germany 🇩🇪 (originally Bulgaria 🇧🇬)
 status:    Open to opportunities
+hobbies:   MMA · Street fitness · PS5 · Travelling
 ```
 
 </td>
