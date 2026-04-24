@@ -1,143 +1,289 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Nikolay%20Vatev&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20.NET%20Developer%20%E2%80%94%20Backend%20%7C%20C%23%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server&descAlignY=58&descSize=16&descColor=a5b4fc"/>
+
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Niko+%F0%9F%91%8B;Junior+ASP.NET+Core+Developer;Clean+Code+%7C+Solid+Architecture;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=818CF8&center=true&vCenter=true&width=500&lines=Building+clean%2C+testable+.NET+applications;SOLID+%C2%B7+Clean+Architecture+%C2%B7+Design+Patterns;Always+learning%2C+always+delivering)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core"/>
-</p>
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=natrapNiko&style=flat-square&color=58a6ff&label=Profile+views" alt="Profile views"/>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=natrapNiko&style=flat-square&color=6366f1&label=profile+views)
+&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/natrapNiko?style=flat-square&color=6366f1&label=followers)
+&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/natrapNiko?style=flat-square&color=6366f1&label=stars)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About me
+<table>
+<tr>
+<td valign="top" width="50%">
 
-Backend-focused developer with a structured training path through software fundamentals, OOP, databases, and full-stack .NET web development.
-I care about **architecture**, **business logic**, and writing code that's easy to reason about and test.
+**About me**
 
-```text
-🔭  Currently working on   CallMeFood — ASP.NET Core MVC recipe platform
-🌱  Currently improving    Clean Architecture · SOLID · SQL performance
-💬  Ask me about           C# · ASP.NET Core MVC · EF Core · SQL Server
-📫  How to reach me        linkedin.com/in/nikolay-vatev-113b1b329
-⚡  Motto                  Clean code over clever code.
+I'm a backend-focused .NET developer with a comprehensive training path covering C#, OOP, SQL, EF Core, ASP.NET Core, and DevOps practices. I focus on writing maintainable, well-tested code with clear separation of concerns.
+
+```yaml
+role:      Junior .NET Developer
+focus:     Backend · Architecture · Testing
+location:  Bulgaria 🇧🇬
+status:    Open to opportunities
 ```
 
----
+</td>
+<td valign="top" width="50%">
 
-## 🛠️ Tech stack
+**Currently**
 
-### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-239120?style=flat-square&logo=csharp&logoColor=white)
-
-### 🗄️ Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Razor](https://img.shields.io/badge/Razor_Views-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### 🧪 Testing & tooling
-![xUnit](https://img.shields.io/badge/xUnit-239120?style=flat-square&logo=csharp&logoColor=white)
-![Moq](https://img.shields.io/badge/Moq-239120?style=flat-square&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
----
-
-## 🚀 Featured project
-
-### 🍽️ [CallMeFood](https://github.com/natrapNiko/CallMeFood)
-
-> Recipe sharing web application built with **ASP.NET Core MVC (.NET 8)**
-
-| Feature | Detail |
-|---|---|
-| Architecture | Controllers → Services → Data (clean separation) |
-| Auth & roles | ASP.NET Identity — Admin / User roles |
-| Core features | Recipes, ingredients, comments, favourites |
-| UX | Pagination & filtering |
-| Tests | Unit tests for service layer (xUnit + Moq) |
-
-```
-Stack: C# · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap · Razor Views
+```yaml
+building:   CallMeFood — ASP.NET Core MVC
+completed:  SE & DevOps · Containers & Cloud · JS · ASP.NET
+learning:   Clean Architecture · CI/CD
+next:       ASP.NET Advanced · Clean Architecture
 ```
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/natrapNiko/CallMeFood)
+**Reach me**
 
----
-
-## 📈 GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Niko's GitHub stats"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay%20Vatev-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikolay-vatev-113b1b329/)
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages"/>
+[![GitHub](https://img.shields.io/badge/GitHub-natrapNiko-24292e?style=flat-square&logo=github)](https://github.com/natrapNiko)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-natrapNiko-e1306c?style=flat-square&logo=instagram)](https://www.instagram.com/natrapNiko/)
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=natrapNiko&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Training path
+## Tech stack
 
-| Module | Completed |
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark"/>
+
+C# &nbsp;·&nbsp; .NET &nbsp;·&nbsp; ASP.NET Core<br/>
+EF Core &nbsp;·&nbsp; LINQ
+
+</td>
+<td align="center" width="25%">
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=sqlserver&theme=dark"/>
+
+SQL Server &nbsp;·&nbsp; SSMS<br/>
+Stored Procedures &nbsp;·&nbsp; Migrations
+
+</td>
+<td align="center" width="25%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind&theme=dark"/>
+
+JavaScript &nbsp;·&nbsp; Razor Views<br/>
+Bootstrap &nbsp;·&nbsp; Tailwind CSS
+
+</td>
+<td align="center" width="25%">
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,githubactions,jenkins,docker,kubernetes,azure&theme=dark"/>
+
+xUnit &nbsp;·&nbsp; Moq &nbsp;·&nbsp; CI/CD<br/>
+GitHub Actions &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Azure
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured project
+
+<div align="center">
+
+<a href="https://github.com/natrapNiko/CallMeFood">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natrapNiko&repo=CallMeFood&theme=github_dark&hide_border=true&border_radius=8&title_color=818cf8&icon_color=6366f1" alt="CallMeFood"/>
+</a>
+
+</div>
+
+<br/>
+
+| | |
 |---|---|
-| Programming Fundamentals with C# | May 2024 |
-| C# Advanced | Sep 2024 |
-| C# OOP | Oct 2024 |
-| MS SQL | Jan 2025 |
-| Entity Framework Core | Feb 2025 |
-| ASP.NET Fundamentals | May 2025 |
-| ASP.NET Advanced | Jun 2025 |
-| HTML & CSS | Sep 2025 |
-| JS Front-End | Oct 2025 |
+| **Architecture** | Controllers → Services → Data (clean separation of concerns) |
+| **Auth & roles** | ASP.NET Core Identity — Admin / User roles |
+| **Features** | Recipes, ingredients, comments, favourites, pagination |
+| **Tests** | Service-layer unit tests with xUnit + Moq |
+| **Stack** | C# · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap · Razor |
 
 ---
 
-## 📚 Currently improving
-
-- [ ] Clean architecture & domain-driven design patterns
-- [ ] Writing more robust and meaningful unit tests
-- [ ] SQL query optimisation & execution plans
-- [ ] Docker fundamentals for .NET applications
-
----
-
-## 🤝 Let's connect
+## GitHub stats
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-natrapNiko-181717?style=for-the-badge&logo=github)](https://github.com/natrapNiko)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay_Vatev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-vatev-113b1b329/)
-[![Instagram](https://img.shields.io/badge/Instagram-natrapNiko-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natrapNiko/)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&title_color=818cf8&icon_color=6366f1&ring_color=6366f1" alt="GitHub stats"/>
+&nbsp;
+<img height="160" src="https://streak-stats.demolab.com?user=natrapNiko&theme=github-dark&hide_border=true&border_radius=8&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" alt="Streak"/>
+
+<br/><br/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6&title_color=818cf8" alt="Top languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=natrapNiko&theme=github-compact&hide_border=true&radius=8&area=true&line=6366f1&point=818cf8&area_color=6366f1" alt="Activity graph"/>
 
 </div>
 
 ---
 
+## Training path
+
 <div align="center">
-  <sub><i>Clean code over clever code.</i></sub>
+
+**2024**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/Programming_Basics_C%23-6366f1?style=flat-square&logo=csharp&logoColor=white)
+
+`Syntax` `Loops` `Data Types` `Arrays`<br/>
+`Methods` `OOP intro` `Regex` `DB basics`<br/>
+`Git & GitHub` `HTTP` `HTML & CSS basics`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/C%23_Advanced-6366f1?style=flat-square&logo=csharp&logoColor=white)
+
+`Stack & Queues` `Multidim. Arrays`<br/>
+`Generics` `Streams & Files`<br/>
+`Functional Programming` `Defining Classes`<br/>
+`Iterators` `Linked List` `Algorithms`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/C%23_OOP-6366f1?style=flat-square&logo=csharp&logoColor=white)
+
+`Inheritance` `Encapsulation`<br/>
+`Interfaces & Abstraction` `Polymorphism`<br/>
+`SOLID` `Reflection` `Design Patterns`<br/>
+`Unit Testing` `Mocking & TDD`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**2025**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/MS_SQL-6366f1?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+`CRUD` `Table Relations`<br/>
+`Joins & Subqueries` `Indices`<br/>
+`Aggregation` `Stored Procedures`<br/>
+`Triggers & Transactions`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/Entity_Framework_Core-6366f1?style=flat-square&logo=dotnet&logoColor=white)
+
+`ORM Fundamentals` `Entity Relations`<br/>
+`LINQ` `Advanced Querying` `Migrations`<br/>
+`JSON & XML Processing` `NoSQL`<br/>
+`Best Practices & Architecture`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/ASP.NET_Fundamentals-6366f1?style=flat-square&logo=dotnet&logoColor=white)
+
+`HTTP Protocol` `ASP.NET Core Intro`<br/>
+`Layers & DI` `Async Processing`<br/>
+`ASP.NET Core Identity`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/HTML_%26_CSS-6366f1?style=flat-square&logo=html5&logoColor=white)
+
+`Box Model` `Typography` `Flexbox`<br/>
+`Responsive Design` `Forms`<br/>
+`Tailwind CSS`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/JS_Front--End-6366f1?style=flat-square&logo=javascript&logoColor=white)
+
+`Syntax` `Arrays & Strings` `Functions`<br/>
+`OOP` `DOM Manipulation` `Events`<br/>
+`HTTP & REST` `Async & AJAX`
+
+</td>
+<td align="center" width="33%">
+
+![](https://img.shields.io/badge/SE_%26_DevOps-6366f1?style=flat-square&logo=githubactions&logoColor=white)
+
+`SE Fundamentals` `Git (advanced)`<br/>
+`CI/CD — GitHub Actions`<br/>
+`CI/CD — Jenkins` `Agile / Scrum`
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+![](https://img.shields.io/badge/Containers_%26_Cloud-6366f1?style=flat-square&logo=docker&logoColor=white)
+&nbsp;
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure&theme=dark" height="20"/>
+
+`Docker` `Containers` `Kubernetes` `Azure` `Cloud fundamentals` `Deployment` `Orchestration`
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## On my radar
+
+<div align="center">
+
+| Now | Soon | Later |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/ASP.NET_Advanced-4f46e5?style=flat-square&logo=dotnet&logoColor=white) | ![](https://img.shields.io/badge/Microservices-6366f1?style=flat-square&logo=apachekafka&logoColor=white) | ![](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white) |
+| ![](https://img.shields.io/badge/Clean_Architecture-4f46e5?style=flat-square&logo=csharp&logoColor=white) | ![](https://img.shields.io/badge/REST_API_Design-ff6c37?style=flat-square&logo=postman&logoColor=white) | ![](https://img.shields.io/badge/gRPC_%2F_SignalR-512bd4?style=flat-square&logo=dotnet&logoColor=white) |
+| ![](https://img.shields.io/badge/Design_Patterns-4f46e5?style=flat-square&logo=csharp&logoColor=white) | ![](https://img.shields.io/badge/Integration_Testing-4f46e5?style=flat-square&logo=csharp&logoColor=white) | ![](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) |
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
