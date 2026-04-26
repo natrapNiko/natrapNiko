@@ -1,35 +1,78 @@
 # Hi, I'm Niko 👋
 
-Junior .NET Developer based in Hamburg 🇩🇪, originally from Bulgaria 🇧🇬. About two years into programming — building real things, learning every day, and enjoying the process.
-
 ---
 
 ### About me
 
-- 🔭 Currently building **[CallMeFood](https://github.com/natrapNiko/CallMeFood)** — an ASP.NET Core MVC recipe app
-- 🌱 Learning Clean Architecture, Design Patterns, and CI/CD
-- 💼 Open to junior .NET opportunities
-- 🥊 Outside of code: MMA, street fitness, PS5, travelling
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
+
+Hey — I'm Nikolay, but honestly nobody calls me that — just call me **Niko**. I'm based in Hamburg, Germany 🇩🇪, originally from Bulgaria 🇧🇬. I've been learning to program for about two years now and I'm genuinely enjoying the journey — still figuring things out, but making real progress every day.
+
+Outside of code I'm into MMA, street fitness, and staying active. I love gaming (PS5 is basically my co-worker), travelling, and building small games and websites just for fun. I'm naturally curious and always open to picking up something new. I'm fairly new to GitHub — only recently started putting my work out there publicly.
+
+</details>
+
+<details>
+<summary><b>🇧🇬 Български</b></summary>
+<br/>
+
+Хей — казвам се Николай, но честно казано никой не ме нарича така — просто ме викайте **Нико**. Живея в Хамбург, Германия 🇩🇪, роден съм в България 🇧🇬. Уча се да програмирам от около две години и наистина се наслаждавам на пътуването — все още се ориентирам, но правя реален напредък всеки ден.
+
+Извън кода се занимавам с ММА, street fitness и спорт като цяло. Обичам гейминга (PS5 е почти като колега на работа), пътуването и изграждането на малки игри и сайтове само за удоволствие. Естествено любопитен съм и винаги съм отворен към нови неща. Сравнително нов съм в GitHub — само наскоро започнах да публикувам работата си публично.
+
+</details>
+
+<details>
+<summary><b>🇩🇪 Deutsch</b></summary>
+<br/>
+
+Hey — ich heiße Nikolay, aber ehrlich gesagt nennt mich niemand so — nennt mich einfach **Niko**. Ich lebe in Hamburg, Deutschland 🇩🇪, und komme ursprünglich aus Bulgarien 🇧🇬. Ich lerne seit etwa zwei Jahren zu programmieren und genieße die Reise wirklich — ich finde mich noch zurecht, aber ich mache jeden Tag echte Fortschritte.
+
+Neben dem Code beschäftige ich mich mit MMA, Street Fitness und Sport im Allgemeinen. Ich liebe Gaming (die PS5 ist quasi mein Arbeitskollege), Reisen und das Bauen kleiner Spiele und Websites einfach zum Spaß. Ich bin von Natur aus neugierig und immer offen dafür, etwas Neues aufzugreifen. Ich bin noch relativ neu auf GitHub — erst kürzlich habe ich begonnen, meine Arbeit öffentlich zu teilen.
+
+</details>
+
+<br/>
+
+```yaml
+location:  Hamburg, Germany 🇩🇪 (originally Bulgaria 🇧🇬)
+hobbies:   MMA · Street fitness · PS5 · Travelling
+```
+
+```yaml
+building:   CallMeFood — ASP.NET Core MVC
+completed:  SE & DevOps · Containers & Cloud · JS Front-End · ASP.NET Advanced
+learning:   Clean Architecture · Design Patterns
+next:       Microservices · REST API Design
+```
 
 ---
 
 ### Tech stack
 
 **Backend**
-`C#` `ASP.NET Core` `.NET` `EF Core` `LINQ`
+`C#` `.NET` `ASP.NET Core MVC` `ASP.NET Core Identity` `EF Core` `LINQ` `Dependency Injection` `Async / Await`
 
 **Database**
-`SQL Server` `SSMS` `Stored Procedures` `Migrations`
+`SQL Server` `SSMS` `Stored Procedures` `Triggers` `Transactions` `Migrations`
 
 **Frontend**
-`JavaScript` `HTML` `CSS` `Razor Views` `Bootstrap` `Tailwind CSS`
+`HTML` `CSS` `JavaScript` `Razor Views` `Bootstrap` `Tailwind CSS` `DOM Manipulation` `REST / AJAX`
 
-**Tooling & DevOps**
-`Git` `GitHub Actions` `Jenkins` `Docker` `Kubernetes` `Azure` `xUnit` `Moq`
+**Testing**
+`xUnit` `Moq` `TDD`
+
+**DevOps & Tooling**
+`Git` `GitHub Actions` `Jenkins` `Docker` `Docker Compose` `Kubernetes` `Linux` `Azure` `Infrastructure as Code` `App Monitoring`
+
+**Principles**
+`OOP` `SOLID` `Design Patterns` `Clean Architecture` `Agile / Scrum`
 
 ---
 
-### Featured project
+### Project
 
 **[CallMeFood](https://github.com/natrapNiko/CallMeFood)**
 
@@ -37,11 +80,11 @@ A full-stack recipe platform built with ASP.NET Core MVC.
 
 | | |
 |---|---|
-| **Architecture** | Controllers → Services → Data |
-| **Auth & roles** | ASP.NET Core Identity — Admin / User |
+| **Architecture** | Controllers → Services → Data (separation of concerns) |
+| **Auth & roles** | ASP.NET Core Identity — Admin / User roles |
 | **Features** | Recipes, ingredients, comments, favourites, pagination |
 | **Tests** | Service-layer unit tests — xUnit + Moq |
-| **Stack** | C# · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap |
+| **Stack** | C# · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap · Razor |
 
 ---
 
@@ -51,7 +94,7 @@ All issued by [Software University (SoftUni)](https://softuni.bg).
 
 | Course | Date | Verify |
 |--------|------|--------|
-| Containers and Cloud | Feb 2026 · **6.00 / 6.00** | [🔗](https://softuni.bg/certificates/details/260763/055c3278) |
+| Containers and Cloud | Feb 2026 | [🔗](https://softuni.bg/certificates/details/260763/055c3278) |
 | Software Engineering and DevOps | Jan 2026 | [🔗](https://softuni.bg/certificates/details/257337/9f9cc10c) |
 | JS Front-End | Oct 2025 | [🔗](https://softuni.bg/certificates/details/254787/c00b2491) |
 | HTML & CSS | Sep 2025 | [🔗](https://softuni.bg/certificates/details/252790/9b02c06c) |
