@@ -281,9 +281,10 @@ GitHub Actions &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Azure
 
 ![](https://img.shields.io/badge/SE_%26_DevOps-6366f1?style=flat-square&logo=githubactions&logoColor=white)
 
-`SE Fundamentals` `Git (advanced)`<br/>
-`CI/CD — GitHub Actions`<br/>
-`CI/CD — Jenkins` `Agile / Scrum`
+`SE Fundamentals` `DevOps & Methodologies`<br/>
+`Version Control with Git` `Automated Testing`<br/>
+`CI/CD — GitHub Actions` `CI/CD — Jenkins`<br/>
+`Development Workflow` `Agile / Scrum`
 
 </td>
 </tr>
@@ -292,9 +293,12 @@ GitHub Actions &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Azure
 
 ![](https://img.shields.io/badge/Containers_%26_Cloud-6366f1?style=flat-square&logo=docker&logoColor=white)
 &nbsp;
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure&theme=dark" height="20"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,azure&theme=dark" height="20"/>
 
-`Docker` `Containers` `Kubernetes` `Azure` `Cloud fundamentals` `Deployment` `Orchestration`
+`Linux & Linux Shell (I & II)` `Containers & Docker`<br/>
+`Docker Compose` `Container Orchestration`<br/>
+`Cloud Computing` `Infrastructure as Code`<br/>
+`App Monitoring Tools`
 
 </td>
 </tr>
