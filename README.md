@@ -65,10 +65,10 @@ next:       Microservices · REST API Design
 `xUnit` `Moq` `TDD`
 
 **DevOps & Tooling**
-`Git` `GitHub Actions` `Jenkins` `Docker` `Docker Compose` `Kubernetes` `Linux` `Azure` `Infrastructure as Code` `App Monitoring`
+`Git` `GitHub Actions` `Jenkins` `Docker` `Docker Compose`  `Linux` `Azure` `Infrastructure as Code` `App Monitoring`
 
 **Principles**
-`OOP` `SOLID` `Design Patterns` `Clean Architecture` `Agile / Scrum`
+`OOP` `SOLID` `Design Patterns` `Clean Architecture`
 
 ---
 
