@@ -94,6 +94,7 @@ All issued by [Software University (SoftUni)](https://softuni.bg).
 
 | Course | Date | Verify |
 |--------|------|--------|
+| SoftUni Professional Diploma – Software Engineering | May 2026 | [🔗](https://softuni.bg/certificates/details/261564/4ddca37d) |
 | Containers and Cloud | Feb 2026 | [🔗](https://softuni.bg/certificates/details/260763/055c3278) |
 | Software Engineering and DevOps | Jan 2026 | [🔗](https://softuni.bg/certificates/details/257337/9f9cc10c) |
 | JS Front-End | Oct 2025 | [🔗](https://softuni.bg/certificates/details/254787/c00b2491) |
