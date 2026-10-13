@@ -2,279 +2,203 @@
 
 **C# / .NET Developer | ASP.NET Core | SQL Server**
 
-📍 Hamburg, Germany 🇩🇪 | Originally from Bulgaria 🇧🇬
-
 ---
 
-### 👨‍💻 About me
+### About me
 
-**🇬🇧 English**
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+<br/>
 
-Hey! I'm Nikolay, but everyone calls me **Niko**.
+Hey, I'm Nikolay, but honestly nobody calls me that. Just call me **Niko**!
 
-I'm originally from Bulgaria 🇧🇬 and currently living in Hamburg, Germany 🇩🇪.
+I'm based in Hamburg, Germany 🇩🇪, originally from Bulgaria 🇧🇬.
 
-I'm a **C#/.NET Developer** with a professional qualification in Back-End Software Engineering from **Software University (SoftUni)**.
+I'm a **C#/.NET Developer** with a professional qualification as a **Back-End Software Engineer with C#** from Software University (SoftUni).
 
-I've been programming for over two years, focusing mainly on **C#, ASP.NET Core, Entity Framework Core, and SQL Server**.
+I've been programming for over two years now, mainly focusing on **C#, ASP.NET Core, Entity Framework Core, and SQL Server**. I'm genuinely enjoying the journey, learning new things, experimenting with different technologies, and building real projects along the way.
 
-I enjoy building web applications, experimenting with new technologies, and solving challenging programming problems.
+I enjoy developing web applications, solving programming challenges, and creating small games just for fun. I'm especially interested in backend development, software architecture, and writing clean, maintainable code.
 
-My projects range from full-stack web applications to interactive browser games, where I can combine backend development, algorithms, and creativity.
+Outside of code, I'm into MMA, street fitness, and staying active. I love gaming (PS5 is basically my co-worker 🎮), travelling, and building things just because I can.
 
-Outside of coding, I'm into MMA, street fitness, dancing, gaming (my PS5 is practically my co-worker 🎮), and travelling.
+I'm naturally curious and always open to picking up something new. There's always something new to learn in programming, and that's exactly what keeps me motivated.
 
-I'm naturally curious, enjoy learning new things, and always look for ways to improve my skills.
+</details>
 
----
+<details>
+<summary><b>🇧🇬 Български</b></summary>
+<br/>
 
-**🇧🇬 Български**
+Хей, казвам се Николай, но честно казано никой не ме нарича така. Просто ме викайте **Нико**!
 
-Здравей! Казвам се Николай, но всички ме наричат **Нико**.
+Живея в Хамбург, Германия 🇩🇪, а родом съм от България 🇧🇬.
 
-Родом съм от България 🇧🇬, но в момента живея в Хамбург, Германия 🇩🇪.
+Аз съм **C#/.NET разработчик** със завършена професионална квалификация **Back-End Software Engineer with C#** от Software University (SoftUni).
 
-Аз съм **C#/.NET разработчик** със завършена професионална квалификация по Back-End Software Engineering в **Software University (SoftUni)**.
+Занимавам се с програмиране повече от две години, като основният ми фокус е върху **C#, ASP.NET Core, Entity Framework Core и SQL Server**. Наистина се наслаждавам на процеса, постоянно научавам нови неща, експериментирам с различни технологии и разработвам собствени проекти.
 
-Занимавам се с програмиране повече от две години, като основният ми фокус е върху **C#, ASP.NET Core, Entity Framework Core и SQL Server**.
+Обичам да създавам уеб приложения, да решавам програмни предизвикателства и да разработвам малки игри за удоволствие. Особено се интересувам от backend разработка, софтуерна архитектура и писане на чист и лесен за поддръжка код.
 
-Обичам да разработвам уеб приложения, да експериментирам с нови технологии и да решавам интересни програмни задачи.
+Извън програмирането се занимавам с ММА, street fitness и спорт като цяло. Обичам гейминга (PS5 е почти като мой колега 🎮), пътуванията и създаването на различни неща просто за удоволствие.
 
-Проектите ми включват както уеб приложения, така и интерактивни игри, в които комбинирам backend разработка, алгоритми и креативност.
+Любопитен съм по природа и винаги съм отворен към нови знания. В програмирането винаги има нещо ново за учене и точно това ме мотивира да продължавам да се развивам.
 
-Извън програмирането се занимавам с ММА, street fitness, танци, gaming (PS5 е почти като мой колега 🎮) и обичам да пътувам.
+</details>
 
-Любопитен съм по природа, обичам да научавам нови неща и постоянно се стремя да подобрявам уменията си.
+<details>
+<summary><b>🇩🇪 Deutsch</b></summary>
+<br/>
 
----
+Hey, ich heiße Nikolay, aber ehrlich gesagt nennt mich niemand so. Nennt mich einfach **Niko**!
 
-**🇩🇪 Deutsch**
+Ich lebe in Hamburg, Deutschland 🇩🇪, und komme ursprünglich aus Bulgarien 🇧🇬.
 
-Hallo! Ich heiße Nikolay, aber alle nennen mich **Niko**.
+Ich bin **C#/.NET Softwareentwickler** mit einer abgeschlossenen Berufsqualifikation als **Back-End Software Engineer with C#** an der Software University (SoftUni).
 
-Ich komme ursprünglich aus Bulgarien 🇧🇬 und lebe derzeit in Hamburg, Deutschland 🇩🇪.
+Seit über zwei Jahren beschäftige ich mich intensiv mit der Programmierung. Mein Schwerpunkt liegt auf **C#, ASP.NET Core, Entity Framework Core und Microsoft SQL Server**. Ich habe viel Freude daran, neue Technologien kennenzulernen, verschiedene Ansätze auszuprobieren und eigene Projekte zu entwickeln.
 
-Ich bin **C#/.NET Softwareentwickler** mit einer abgeschlossenen Berufsqualifikation im Bereich Back-End Software Engineering an der **Software University (SoftUni)**.
+Besonders gerne entwickle ich Webanwendungen, löse Programmieraufgaben und erstelle kleine Spiele. Mein Interesse gilt vor allem der Backend-Entwicklung, Softwarearchitektur und sauberem, wartbarem Code.
 
-Seit über zwei Jahren beschäftige ich mich intensiv mit der Softwareentwicklung. Mein Schwerpunkt liegt auf **C#, ASP.NET Core, Entity Framework Core und Microsoft SQL Server**.
+Neben dem Programmieren beschäftige ich mich mit MMA, Street Fitness und Sport im Allgemeinen. Ich liebe Gaming (meine PS5 ist quasi mein Arbeitskollege 🎮), Reisen und die Entwicklung eigener kleiner Projekte.
 
-Ich entwickle gerne Webanwendungen, beschäftige mich mit neuen Technologien und löse anspruchsvolle Programmieraufgaben.
+Ich bin von Natur aus neugierig und immer offen dafür, etwas Neues zu lernen. Gerade die ständige Weiterentwicklung in der Softwarebranche motiviert mich, meine Kenntnisse kontinuierlich auszubauen.
 
-Meine Projekte reichen von datenbankgestützten Webanwendungen bis hin zu interaktiven Browsergames, bei denen ich Backend-Entwicklung, Algorithmen und Kreativität miteinander verbinde.
+</details>
 
-Neben dem Programmieren interessiere ich mich für MMA, Street Fitness, Tanzen, Gaming (meine PS5 ist praktisch mein Arbeitskollege 🎮) und Reisen.
-
-Ich bin neugierig, lerne gerne Neues und arbeite kontinuierlich daran, meine technischen Fähigkeiten weiterzuentwickeln.
-
----
-
-### 📍 A little more about me
+<br/>
 
 ```yaml
-name:      Nikolay Vatev
-nickname:  Niko
-location:  Hamburg, Germany 🇩🇪
-from:      Bulgaria 🇧🇬
-focus:     C# / .NET Backend Development
-hobbies:   Gaming · Dance · MMA · Street Fitness · Travelling
+location:  Hamburg, Germany 🇩🇪 (originally Bulgaria 🇧🇬)
+hobbies:   Games · Dance · MMA · Street fitness · PS5 · Travelling
 ```
 
 ```yaml
 projects:   ArrowOut · BackgammonOnline · CallMeFood
 completed:  Back-End Software Engineer with C# · SoftUni 2026
-learning:   Clean Architecture · Design Patterns · REST APIs
-next:       Microservices · Advanced .NET · Cloud Technologies
+learning:   Clean Architecture · Design Patterns
+next:       Microservices · REST API Design
 ```
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Backend**
 
-`C#` `.NET` `ASP.NET Core MVC` `ASP.NET Core Identity` `Entity Framework Core` `LINQ` `Dependency Injection` `Async / Await`
+`C#` `.NET` `ASP.NET Core MVC` `ASP.NET Core Identity` `EF Core` `LINQ` `Dependency Injection` `Async / Await`
 
 **Database**
 
-`Microsoft SQL Server` `SSMS` `T-SQL` `Stored Procedures` `Triggers` `Transactions` `Migrations`
+`SQL Server` `SSMS` `T-SQL` `Stored Procedures` `Triggers` `Transactions` `Migrations`
 
 **Frontend**
 
-`HTML5` `CSS3` `JavaScript` `Razor Views` `Bootstrap` `Tailwind CSS` `DOM Manipulation` `REST / AJAX`
+`HTML` `CSS` `JavaScript` `Razor Views` `Bootstrap` `Tailwind CSS` `DOM Manipulation` `REST / AJAX`
 
 **Testing**
 
-`xUnit` `Moq` `Unit Testing` `TDD`
+`xUnit` `Moq` `TDD`
 
 **DevOps & Tooling**
 
-`Git` `GitHub` `GitHub Actions` `Jenkins` `Docker` `Docker Compose` `Linux` `Azure` `CI/CD` `Infrastructure as Code` `App Monitoring`
+`Git` `GitHub Actions` `Jenkins` `Docker` `Docker Compose` `Linux` `Azure` `Infrastructure as Code` `App Monitoring`
 
-**Software Engineering**
+**Principles**
 
-`OOP` `SOLID` `Design Patterns` `Clean Architecture` `REST APIs`
-
----
-
-### 🚀 My projects
-
-Here are some of the applications I've been working on.
-
-Each project has helped me improve my programming skills, explore new technologies, and gain practical software development experience.
+`OOP` `SOLID` `Design Patterns` `Clean Architecture`
 
 ---
+
+### Projects
 
 #### 🧩 [ArrowOut](https://github.com/natrapNiko/ArrowOut)
 
-**Interactive Puzzle Web Application**
-
-A logic-based puzzle game built with ASP.NET Core MVC, combining algorithmic problem-solving with interactive gameplay.
+An interactive puzzle game built with ASP.NET Core MVC, combining algorithmic problem-solving with web development.
 
 | | |
 |---|---|
-| **Type** | Interactive browser puzzle game |
 | **Game logic** | Procedural level generation and solution validation |
-| **Features** | User accounts, game statistics, leaderboards |
+| **Auth & users** | User authentication and account management |
+| **Features** | Interactive gameplay, game statistics, leaderboards |
 | **Backend** | Server-side game logic and move validation |
 | **Stack** | C# · .NET 10 · ASP.NET Core MVC · EF Core · SQL Server · JavaScript |
-
-**What I worked on:**
-- Implementing puzzle mechanics and algorithmic level generation
-- Developing backend logic and validating player moves
-- Integrating database functionality and user-related features
-
-🔗 **[View repository](https://github.com/natrapNiko/ArrowOut)**
 
 ---
 
 #### 🎲 [BackgammonOnline](https://github.com/natrapNiko/BackgammonOnline)
 
-**Web-Based Backgammon Application**
-
-A web application inspired by the classic Backgammon board game, developed using C# and ASP.NET Core.
+A web-based Backgammon application developed with ASP.NET Core, focusing on application structure, database integration, and backend development.
 
 | | |
 |---|---|
-| **Type** | Web-based board game |
+| **Application** | Web-based Backgammon game |
 | **Backend** | ASP.NET Core |
 | **Database** | Entity Framework Core · SQL Server |
 | **Authentication** | ASP.NET Core Identity |
 | **Stack** | C# · .NET 8 · ASP.NET Core · EF Core · SQL Server |
 
-**What I worked on:**
-- Building a web-based application using ASP.NET Core
-- Integrating database access with Entity Framework Core
-- Working with application structure and user authentication
-
-🔗 **[View repository](https://github.com/natrapNiko/BackgammonOnline)**
-
 ---
 
 #### 🍕 [CallMeFood](https://github.com/natrapNiko/CallMeFood)
 
-**Full-Stack Recipe Management Platform**
-
-A full-stack web application for creating, managing, and sharing recipes, built with ASP.NET Core MVC.
+A full-stack recipe platform built with ASP.NET Core MVC.
 
 | | |
 |---|---|
-| **Architecture** | Controllers → Services → Data (Separation of Concerns) |
-| **Auth & Roles** | ASP.NET Core Identity · Admin / User roles |
+| **Architecture** | Controllers → Services → Data (separation of concerns) |
+| **Auth & roles** | ASP.NET Core Identity · Admin / User roles |
 | **Features** | Recipes, ingredients, comments, favourites, pagination |
-| **Database** | Entity Framework Core · SQL Server |
-| **Testing** | Service-layer unit tests · xUnit + Moq |
+| **Tests** | Service-layer unit tests · xUnit + Moq |
 | **Stack** | C# · ASP.NET Core MVC · EF Core · SQL Server · Bootstrap · Razor |
 
-**What I worked on:**
-- Developing a database-driven recipe management platform
-- Implementing authentication and role-based authorisation
-- Applying layered architecture and writing automated unit tests
-
-🔗 **[View repository](https://github.com/natrapNiko/CallMeFood)**
-
 ---
 
-### 🎓 Education & certificates
+### Certificates
 
-**Back-End Software Engineer with C#**
+**🎓 Back-End Software Engineer with C#**
 
-Software University (SoftUni), Bulgaria
+Professional Qualification Diploma · Software University (SoftUni) · May 2026
 
-📅 January 2024 - May 2026
-
-🏆 **Professional Qualification Diploma**
-
-🔗 [Verify my diploma](https://softuni.bg/certificates/details/261564/4ddca37d)
-
-During my education, I gained knowledge in:
-
-- Object-Oriented Programming with C#
-- ASP.NET Core MVC & Web API
-- Entity Framework Core
-- Microsoft SQL Server
-- Software Engineering & Architecture
-- Unit Testing & Test-Driven Development
-- DevOps, Docker & Cloud Technologies
-
----
-
-#### 📜 Certificates
+[![SoftUni Diploma](https://img.shields.io/badge/SoftUni-Professional%20Diploma-2ea44f?style=flat-square)](https://softuni.bg/certificates/details/261564/4ddca37d)
 
 All certificates issued by [Software University (SoftUni)](https://softuni.bg).
 
 | Course | Date | Verify |
 |--------|------|--------|
-| **Back-End Software Engineer with C# - Professional Diploma** | May 2026 | [🔗 Verify](https://softuni.bg/certificates/details/261564/4ddca37d) |
-| Containers and Cloud | Feb 2026 | [🔗 Verify](https://softuni.bg/certificates/details/260763/055c3278) |
-| Software Engineering and DevOps | Jan 2026 | [🔗 Verify](https://softuni.bg/certificates/details/257337/9f9cc10c) |
-| JS Front-End | Oct 2025 | [🔗 Verify](https://softuni.bg/certificates/details/254787/c00b2491) |
-| HTML & CSS | Sep 2025 | [🔗 Verify](https://softuni.bg/certificates/details/252790/9b02c06c) |
-| ASP.NET Advanced | Jun 2025 | [🔗 Verify](https://softuni.bg/certificates/details/248472/b4df9bce) |
-| Entity Framework Core | Feb 2025 | [🔗 Verify](https://softuni.bg/certificates/details/239813/d7430ca5) |
-| MS SQL | Jan 2025 | [🔗 Verify](https://softuni.bg/certificates/details/235781/9194244f) |
-| C# OOP | Oct 2024 | [🔗 Verify](https://softuni.bg/certificates/details/233953/230b98cf) |
-| C# Advanced | Sep 2024 | [🔗 Verify](https://softuni.bg/certificates/details/227745/618ea7e5) |
-| Programming Fundamentals with C# | May 2024 | [🔗 Verify](https://softuni.bg/certificates/details/222238/953bbf4d) |
-| Programming Basics | Jan 2024 | [🔗 Verify](https://softuni.bg/certificates/details/204308/109546b5) |
+| Back-End Software Engineer with C# · Professional Diploma | May 2026 | [🔗](https://softuni.bg/certificates/details/261564/4ddca37d) |
+| Containers and Cloud | Feb 2026 | [🔗](https://softuni.bg/certificates/details/260763/055c3278) |
+| Software Engineering and DevOps | Jan 2026 | [🔗](https://softuni.bg/certificates/details/257337/9f9cc10c) |
+| JS Front-End | Oct 2025 | [🔗](https://softuni.bg/certificates/details/254787/c00b2491) |
+| HTML & CSS | Sep 2025 | [🔗](https://softuni.bg/certificates/details/252790/9b02c06c) |
+| ASP.NET Advanced | Jun 2025 | [🔗](https://softuni.bg/certificates/details/248472/b4df9bce) |
+| Entity Framework Core | Feb 2025 | [🔗](https://softuni.bg/certificates/details/239813/d7430ca5) |
+| MS SQL | Jan 2025 | [🔗](https://softuni.bg/certificates/details/235781/9194244f) |
+| C# OOP | Oct 2024 | [🔗](https://softuni.bg/certificates/details/233953/230b98cf) |
+| C# Advanced | Sep 2024 | [🔗](https://softuni.bg/certificates/details/227745/618ea7e5) |
+| Programming Fundamentals with C# | May 2024 | [🔗](https://softuni.bg/certificates/details/222238/953bbf4d) |
+| Programming Basics | Jan 2024 | [🔗](https://softuni.bg/certificates/details/204308/109546b5) |
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <div align="center">
 
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&title_color=818cf8&icon_color=6366f1&ring_color=6366f1"
-  alt="Niko's GitHub statistics"
-/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=natrapNiko&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&title_color=818cf8&icon_color=6366f1&ring_color=6366f1" alt="Niko's GitHub stats"/>
 
 &nbsp;
 
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6&title_color=818cf8"
-  alt="Most used programming languages"
-/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natrapNiko&layout=compact&theme=github_dark&hide_border=true&border_radius=8&langs_count=6&title_color=818cf8" alt="Top languages"/>
 
 </div>
 
 ---
 
-### 📫 Connect with me
+### Connect
 
-I'm always interested in learning, collaborating, and connecting with other developers.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay%20Vatev-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikolay-vatev-113b1b329/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikolay%20Vatev-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolay-vatev-113b1b329/)
+&nbsp;
 
-[![GitHub](https://img.shields.io/badge/GitHub-natrapNiko-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/natrapNiko)
-
----
-
-<div align="center">
-
-**Thanks for visiting my GitHub profile! 👋**
-
-*Keep learning. Keep building. Keep improving.*
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-natrapNiko-24292e?style=flat-square&logo=github)](https://github.com/natrapNiko)
