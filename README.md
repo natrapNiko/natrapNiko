@@ -1,16 +1,3 @@
-- [x] Step 1
-- [x] Step 2 
-- [x] Step 3.1
-- [x] Step 3.2
-- [x] step 3.2.5
-- [x] step 3.3
-- [x] 3.3.8 Verify the database in SSMS
-- [x] step 3.4
-- [ ] step 3.5 waiting
-
-
-
-
 # Hi, I'm Niko 👋
 
 ---
