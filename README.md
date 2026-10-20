@@ -1,6 +1,6 @@
 # Hi, I'm Niko 👋
 
-**C# / .NET Developer | ASP.NET Core | SQL Server**
+**💻 C# / .NET Developer | ASP.NET Core | SQL Server | REST APIs**
 
 ---
 
